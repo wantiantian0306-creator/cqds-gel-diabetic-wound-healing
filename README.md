@@ -28,3 +28,9 @@ Once a Zenodo release DOI is minted, add it here and cite the archived release v
 ## License
 
 No license has been selected yet. Select a license only after confirming ownership and reuse permissions for all code and materials.
+## Archived release
+
+The archived software release is available on Zenodo:
+https://doi.org/10.5281/zenodo.23608177
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23608177.svg)](https://doi.org/10.5281/zenodo.23608177)
