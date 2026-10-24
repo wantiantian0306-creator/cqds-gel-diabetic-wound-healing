@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and the archived software release."
+title: "CQDs@Gel diabetic wound healing analysis workflows"
+type: software
+version: 0.1.0
+abstract: "Analysis workflows supporting research on prunetin-derived carbon quantum dots-loaded hydrogel for diabetic wound healing."
+preferred-citation:
+  type: article
+  title: "A prunetin-derived carbon quantum dots-loaded hydrogel for the treatment of diabetic cutaneous ulcer via reactive oxygen species scavenging"
+  journal: "Colloids and Surfaces A: Physicochemical and Engineering Aspects"
+  year: 2026
+  volume: 749
+  pages: "141205"
+  doi: "10.1016/j.colsurfa.2026.141205"
